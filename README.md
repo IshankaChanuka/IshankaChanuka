@@ -1,6 +1,7 @@
 # Hi there, I'm Ishanka Chanuka! 👋
 
-![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/IshankaChanuka/IshankaChanuka/assets/108236918/32367f5b-fc65-4f56-9fa7-d7535078a745)
+
+![68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966](https://github.com/IshankaChanuka/IshankaChanuka/assets/108236918/139d0713-2bfd-4ba6-830e-2b819ec13f3e)
 
 I'm a passionate developer currently pursuing my HND (Higher National Diploma) in Software Engineering. I have a keen interest in software development and exploring new technologies to build innovative solutions.
 
